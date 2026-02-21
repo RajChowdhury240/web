@@ -1,0 +1,14 @@
+use all project agents to do this:
+
+  I am Raj Chowdhury , i am 24 years old i have been into offensive security over 7-8 years now , i have played
+  alot of ctfs including international , national levels , i have done OSCP+ cert , i work as a senior Cloud IAM
+  Engineer at SYF , i know red teaming very well i hold multiple CVEs for ssrf/rce/idor/xss , i know cloud
+  security (AWS) and cloud engineering and its automation really well , i excel in terminal skills , i am damn
+  good at python and bash.
+  I love active directory red teaming , ive done plenty mobile (Android/Ios) penetration testing
+
+  so i have this mix of development offensive security cloud architecture cloud engineering cloud security
+
+  i want a portfolio website for myself where i can have my blogs in separate tab , my cves , certifications , my
+  resume via  button pop up open and about me in the homepage , my projects , my experience , the ctfs i have won
+  , the cves i have won etc etc

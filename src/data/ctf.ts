@@ -1,0 +1,66 @@
+import { CTFAchievement } from "@/types";
+
+export const ctfAchievements: CTFAchievement[] = [
+  {
+    name: "DEF CON CTF Qualifiers",
+    date: "2024-05",
+    scope: "International",
+    placement: "Top 10",
+    teamName: "ByteForce",
+    description: "Qualified for DEF CON CTF finals, solving advanced binary exploitation and web challenges against top international teams.",
+  },
+  {
+    name: "Google CTF",
+    date: "2024-06",
+    scope: "International",
+    placement: "Top 5",
+    teamName: "ByteForce",
+    description: "Placed top 5 globally, focusing on web exploitation, cryptography, and cloud security challenges.",
+  },
+  {
+    name: "PicoCTF",
+    date: "2024-03",
+    scope: "International",
+    placement: "1st Place",
+    description: "First place finish in the world's largest cybersecurity competition for students and professionals.",
+  },
+  {
+    name: "NahamCon CTF",
+    date: "2023-06",
+    scope: "Online",
+    placement: "2nd Place",
+    teamName: "ByteForce",
+    description: "Runner-up in NahamCon's annual CTF with over 3000+ participating teams worldwide.",
+  },
+  {
+    name: "National Cyber League (NCL)",
+    date: "2023-11",
+    scope: "National",
+    placement: "1st Place",
+    description: "National champion in individual competition, dominating web exploitation and OSINT categories.",
+  },
+  {
+    name: "HackTheBox University CTF",
+    date: "2023-12",
+    scope: "International",
+    placement: "3rd Place",
+    teamName: "ByteForce",
+    description: "Bronze medal finish in HTB's annual university CTF, excelling in Active Directory and cloud challenges.",
+  },
+  {
+    name: "BSides CTF",
+    date: "2023-04",
+    scope: "Regional",
+    placement: "1st Place",
+    teamName: "ByteForce",
+    description: "Won the BSides CTF event, clearing all web and binary exploitation challenges.",
+  },
+  {
+    name: "Cyber Apocalypse CTF",
+    date: "2024-03",
+    scope: "International",
+    placement: "Top 10",
+    teamName: "ByteForce",
+    description: "Top 10 finish in HackTheBox's flagship CTF event with 6000+ teams globally.",
+  },
+];

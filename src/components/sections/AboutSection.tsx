@@ -53,7 +53,7 @@ export default function AboutSection() {
               </div>
               <pre className="p-4 font-mono text-sm leading-7 text-accent-green-text overflow-x-auto">
 {`{
-  "name": "Raj Chowdhury",
+  "name": "Chowdhury Faizal Ahammed",
   "age": 24,
   "role": "Sr. Cloud IAM Engineer",
   "company": "Synchrony Financial",
@@ -64,10 +64,10 @@ export default function AboutSection() {
     "Red Teaming",
     "Bug Bounty"
   ],
-  "certifications": ["OSCP+"],
+  "certifications": ["AD-RTS", "CRTA", "OSCP+", "CNPen", "CAP"],
   "cves_published": 6,
-  "ctfs_won": "15+",
-  "languages": ["Python", "Bash"],
+  "ctfs_won": "25+",
+  "languages": ["Python", "Bash", "Golang", "JavaScript"],
   "cloud": "AWS",
   "status": "Always hunting"
 }`}

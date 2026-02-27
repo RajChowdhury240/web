@@ -10,7 +10,7 @@ export default function SiteFooter() {
           <div>
             <Link href="/" className="font-mono text-lg font-bold flex items-center gap-2">
               <Terminal size={18} className="text-accent-green" />
-              <span className="text-accent-green">raj</span>
+              <span className="text-accent-green">faizal</span>
               <span className="text-text-muted">@security</span>
             </Link>
             <p className="text-text-muted text-sm mt-3">
@@ -78,7 +78,7 @@ export default function SiteFooter() {
 
         <div className="mt-10 pt-6 border-t border-border-subtle">
           <p className="font-mono text-xs text-text-faint text-center">
-            &copy; {new Date().getFullYear()} Raj Chowdhury. All rights reserved.
+            &copy; {new Date().getFullYear()} Chowdhury Faizal Ahammed. All rights reserved.
           </p>
         </div>
       </div>

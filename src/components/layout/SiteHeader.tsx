@@ -52,7 +52,7 @@ export default function SiteHeader() {
         )}
       >
         <Link href="/" className="font-mono text-lg font-bold">
-          <span className="text-accent-green">raj</span>
+          <span className="text-accent-green">faizal</span>
           <span className="text-text-muted">@security</span>
           <span className="text-text-faint">:~$</span>
         </Link>

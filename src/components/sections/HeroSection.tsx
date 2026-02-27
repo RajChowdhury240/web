@@ -7,11 +7,11 @@ import Button from "@/components/ui/Button";
 import { ArrowDown, Download } from "lucide-react";
 
 const roles = [
-  "Offensive Security Engineer",
-  "Cloud IAM Architect",
+  "Penetration Tester",
+  "Cloud Security Architect",
   "Red Team Operator",
   "Bug Bounty Hunter",
-  "CTF Player",
+  "CVE Holder",
 ];
 
 export default function HeroSection() {
@@ -28,7 +28,7 @@ export default function HeroSection() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="font-mono text-sm text-accent-green mb-6"
         >
-          raj@kali:~$ whoami
+          faizal@kali:~$ whoami
         </motion.p>
 
         <motion.h1
@@ -37,7 +37,7 @@ export default function HeroSection() {
           transition={{ delay: 0.4, duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
           className="text-5xl md:text-7xl font-bold font-display mb-6 tracking-tight"
         >
-          <GlitchText text="RAJ CHOWDHURY" />
+          <GlitchText text="CHOWDHURY FAIZAL AHAMMED" />
         </motion.h1>
 
         <motion.div
